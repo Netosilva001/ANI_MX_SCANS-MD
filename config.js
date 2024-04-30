@@ -21,7 +21,7 @@ global.owner = [
 /**********GLOBAL INFO*****************/
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.amsicon = `🌎`
-global.author = '𝓡𝓮𝔂 𝓔𝓷𝓭𝔂𝓶𝓲𝓸𝓷'
+global.author = 'ᴺᴱᵀᴼ╰⁔╯'
 global.wm = '🌎ANI MX SCANS🌏'
 global.igfg = '★🌎ANI MX SCANS🌏★'
 global.paypal = `https://www.paypal.me/AMxScan`
